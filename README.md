@@ -1,7 +1,9 @@
 # GITHUB-FINDER
 
-A responsive **GitHub Profile Finder** built with **TypeScript, HTML, CSS, and Bootstrap**.  
-This application allows users to search for any GitHub username and view their **profile information, statistics, and latest repositories**.
+🚀 **Live Demo:** https://github-finder-two-xi.vercel.app
+
+A responsive GitHub profile search application built using **TypeScript, HTML, CSS, and Bootstrap**.  
+Search any GitHub username to view their **profile details, statistics, and latest repositories**.
 
 ---
 
